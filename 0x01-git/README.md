@@ -1,1 +1,1 @@
-My edited git file 
+My edited git file
